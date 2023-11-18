@@ -6,7 +6,7 @@ Desafio cujo o objetivo é verificar os conhecimentos em:
 - Laços de repetição
 - Estruturas de decisões
 
-## Instruções do Desafio
+# Instruções do Desafio
 
 **O Que deve ser utilizado:**
 
